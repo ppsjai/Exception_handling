@@ -1,4 +1,4 @@
-How many error types in python
+All kinds of error in python and what the error what was the reason cause the error happen and how do we tackle the error
 Exception with detailed description Description
 1.ArithmeticError
 Raised when an error occurs in numeric calculations
